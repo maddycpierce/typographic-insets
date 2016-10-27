@@ -99,8 +99,8 @@ footer {
   background-color: #666;
   border-top: 3px solid #333;
   border-bottom: 3px solid #333;
-  margin-right: 0.1em;
-  margin-left: -0.3em;
+  margin-right: .1em;
+  margin-left: -.3em;
 }
 
 blockquote {
