@@ -20,7 +20,7 @@ deliverables: "1 HTML file, 1 CSS file, images"
 
 ## Details
 
-- *Colours:* `#333`, `#666`, `#f2f2f2`
+- *Colours:* dark grey`#333`, light grey`#666`, white-grey`#f2f2f2`
 - *Border thickness:* `3px`
 - *Text sizes:* `5rem`, `1.5rem`, `.875rem`
 - *Paddings:* `.4em .2em`, `6px 0`, `6px`
