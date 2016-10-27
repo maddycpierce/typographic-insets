@@ -86,12 +86,17 @@ footer {
  ##########################################################
 */
 
-.wrapper:first-letter {
+/* Write your CSS here */
+
+.wrapper p:first-of-type::first-letter {
   font-size: 5rem;
   color: #f2f2f2;
   font-style: normal;
-  padding: 6px 0;
   border-width: 3px;
+  padding: 6px;
+  float: left;
+  width: 10%;
 }
 
-/* Write your CSS here */
+.wrapper blockquote p {
+}
